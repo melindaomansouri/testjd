@@ -1,3 +1,4 @@
-footer > .car-content > .image{
-    
+.car-content > .image > img {
+    Width:400px;
+    height:400px;
 }
